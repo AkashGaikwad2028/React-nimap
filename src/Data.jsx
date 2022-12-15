@@ -1,0 +1,44 @@
+const Data=[
+    {
+        id:"1",
+        name:"Terminator",
+        Genre:"Action",
+        stock:"6",
+        rate:2.5,
+        isActive:true
+    },
+    {
+        id:"2",
+        name:"Terminator",
+        Genre:"Action",
+        stock:"6",
+        rate:2.5,
+        isActive:true,
+    },
+    {
+        id:"3",
+        name:"Terminator",
+        Genre:"Action",
+        stock:"6",
+        rate:2.5,
+        isActive:true,
+    },
+    {
+        id:"4",
+        name:"Terminator",
+        Genre:"Action",
+        stock:"6",
+        rate:2.5,
+        isActive:true,
+    },
+    {
+        id:"5",
+        name:"Terminator",
+        Genre:"Action",
+        stock:"6",
+        rate:2.5,
+        isActive:true,
+    },
+]
+
+export default Data
